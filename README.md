@@ -4,7 +4,8 @@
 ---
 
 ### 👩‍💻 Summary
-Full-stack developer skilled in building scalable and responsive web applications with **JavaScript** and **Python (Django)**. Experienced in **API integration** and **database design**, with prior background in **Flutter/Dart mobile development**. Strong collaborator with **Git expertise** and committed to continuous learning to enhance development efficiency and user experience.
+Full-stack developer skilled in building scalable and responsive web applications with **JavaScript** and **Python (Django & Flask)**. Experienced in **API integration** and **database design**, with prior background in **Flutter/Dart mobile development**. Strong collaborator with **Git expertise** and committed to continuous learning to enhance development efficiency and user experience.  
+🚀 Currently working on new projects to expand my skills and contribute to impactful applications.  
 
 ---
 
@@ -13,7 +14,7 @@ Full-stack developer skilled in building scalable and responsive web application
 - 📞 00201030873370  
 - 📧 [hlafayez2001@gmail.com](mailto:hlafayez2001@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hala-fayez-abu-ghali-9a5096228/)  
-- 💻 [GitHub]([your-github-url](https://github.com/HlaFa))  
+- 💻 [GitHub](https://github.com/HlaFa)  
 
 ---
 
@@ -36,5 +37,11 @@ Full-stack developer skilled in building scalable and responsive web application
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" width="60" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
   </a>
 </p>
