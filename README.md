@@ -4,7 +4,7 @@
 ---
 
 ### 👩‍💻 Summary
-Full-stack developer skilled in building scalable and responsive web applications with **JavaScript** and **Python (Flask)**. Experienced in **API integration** and **database design**, with prior background in **Flutter/Dart mobile development**. Strong collaborator with **Git expertise** and committed to continuous learning to enhance development efficiency and user experience.
+Full-stack developer skilled in building scalable and responsive web applications with **JavaScript** and **Python (Django)**. Experienced in **API integration** and **database design**, with prior background in **Flutter/Dart mobile development**. Strong collaborator with **Git expertise** and committed to continuous learning to enhance development efficiency and user experience.
 
 ---
 
