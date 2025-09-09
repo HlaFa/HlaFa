@@ -1,11 +1,23 @@
 <h1 align="center">Hi 👋, I'm Hala Fayez Abu Ghali</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### 👩‍💻 Summary
+Full-stack developer skilled in building scalable and responsive web applications with **JavaScript** and **Python (Flask)**. Experienced in **API integration** and **database design**, with prior background in **Flutter/Dart mobile development**. Strong collaborator with **Git expertise** and committed to continuous learning to enhance development efficiency and user experience.
+
+---
+
+### 📫 Connect with me:
+- 📍 Cairo, Egypt  
+- 📞 00201030873370  
+- 📧 [hlafayez2001@gmail.com](mailto:hlafayez2001@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hala-fayez-abu-ghali-9a5096228/)  
+- 💻 [GitHub]([your-github-url](https://github.com/HlaFa))  
+
+---
+
+### 🛠 Languages and Tools:
 <p align="left"> 
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
