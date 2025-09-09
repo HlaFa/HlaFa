@@ -4,25 +4,6 @@
 ---
 
 ### 👩‍💻 Summary
-Full-stack developer skilled in building scalable and responsive web applications with **JavaScript** and **Python (Django & Flask)**. Experienced in **API integration** and **database design**, with prior background in **Flutter/Dart mobile development**. Strong collaborator with **Git expertise** and committed to continuous learning to enhance development efficiency and user experience.  
-🚀 Currently working on new projects to expand my skills and contribute to impactful applications.  
-
----
-
-### 📫 Connect with me:
-- 📍 Cairo, Egypt  
-- 📞 00201030873370  
-- 📧 [hlafayez2001@gmail.com](mailto:hlafayez2001@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/hala-fayez-abu-ghali-9a5096228/)  
-- 💻 [GitHub](https://github.com/HlaFa)  
-
----
-<h1 align="center">Hi 👋, I'm Hala Fayez Abu Ghali</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
-
----
-
-### 👩‍💻 Summary
 Full-stack developer skilled in building scalable and responsive web applications with **JavaScript** and **Python (Django)**. Experienced in **API integration** and **database design**, with prior background in **Flutter/Dart mobile development**. Strong collaborator with **Git expertise** and committed to continuous learning to enhance development efficiency and user experience.  
 🚀 Currently working on new projects to expand my skills and contribute to impactful applications.  
 
@@ -61,14 +42,3 @@ Full-stack developer skilled in building scalable and responsive web application
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
   </a>
 </p>
-👉 Do you also want me to add Firebase here (since it’s in your CV), or keep it only in your resume?
-
-
-
-
-
-
-
-
-Ask ChatGPT
-
